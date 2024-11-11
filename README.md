@@ -1,5 +1,5 @@
 # frontend-projects
 this is my first repo on github
 
-##trainning
+## trainning
 on git and its commands
